@@ -15,6 +15,8 @@
   <a href="https://erxes.io/">Website</a>
   |
   <a href="https://erxes.io/invest">Invest</a>
+  |
+  <a href="https://erxes.io/invest">Invest</a>
   </p>
 </p>
 
